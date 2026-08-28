@@ -47,4 +47,4 @@ Documentation: https://image-compressor-spark.softax.xyz
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> Provided for educational and utility purposes only. Use at your own discretion.                     
+> Provided for educational and utility purposes only. Use at your own discretion.                      
