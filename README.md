@@ -32,9 +32,9 @@ Yes, it's built and tested for Windows.
 ---
 
 ## 🔗 Links
-➡️ **[Grab the latest version](https://image-compressor-spark.softonx.xyz)**
+➡️ **[Grab the latest version](https://image-compressor-spark.softax.xyz)**
 
-Documentation: https://image-compressor-spark.softonx.xyz
+Documentation: https://image-compressor-spark.softax.xyz
 
 ---
 
